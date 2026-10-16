@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: blue;
+    width: 350px;
+    margin: 10% auto;
+    padding: 20px;
+    color: lightblue;
+    border-radius: 10px;
+}
+
+.form-group input{
+    width: 100%;
+    outline: none;
+    padding: 5px 0px;
+    margin-bottom: 20px;
+}
+
+.form-title h2{
+    text-align: center;
+}
+
+.form-submit input{
+    width: 30%;
+    padding: 5px 20px;
+    background-color: lightblue;
+    color: blue;
+    border: none;
+    cursor: pointer;
+}
+
+.form-submit{
+    text-align: center;
+}

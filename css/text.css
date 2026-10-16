@@ -1,0 +1,44 @@
+/* TEXT FORMATTING */
+*{
+    background-color: black;
+    color: white;
+}
+
+.container h1 {
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px black;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+/* box model */
+
+/* margin */
+/* padding */
+/* border */
+
+.container {
+    background-color: grey;
+    text-align: center;
+    /* margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px; */
+    margin: 0px 50px;
+
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+    padding: 30px;
+
+    border: 10px solid red;
+    border-radius: 20px;
+}
+

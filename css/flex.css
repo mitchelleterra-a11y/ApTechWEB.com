@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+.content img{
+    width: 100%;
+    height: auto;
+}
+
+.content{
+    text-align: center;
+}
+
+.content{
+    box-shadow: 1px 1px 10px lightblue;
+}
+
+.content p{
+    padding: 15px;
+}

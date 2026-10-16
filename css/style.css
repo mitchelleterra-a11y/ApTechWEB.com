@@ -1,0 +1,47 @@
+/* div{
+    background-color: brown;
+} */
+
+/* CLASS SELECTOR */
+
+.first{
+    background-color: blue;
+}
+
+.second{
+    background-color: red;
+}
+
+/* id selector */
+#container{
+    background-color: grey;
+}
+
+
+/* child selector */
+
+.first h1{
+    color: yellow
+}
+
+.first p{
+    color: purple
+}
+
+/* universal selector */
+
+*{
+    background-color: white;
+}
+
+/* COLORS */
+
+/* rgb */
+/* rgba */
+/* hex */
+
+.color p{
+    /* background-color: rgb(0,0,255); */
+    background-color: rgba(0,0,0,0.5);
+    background-color: #FFA500;
+}

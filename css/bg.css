@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg{
+    background-image: url(../img/men2.jp.jpeg);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
